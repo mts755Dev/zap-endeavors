@@ -1,0 +1,177 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About Us",
+    "services": "Services",
+    "projects": "Projects",
+    "whyUs": "Why Us",
+    "contact": "Contact",
+    "cta": "Start Your Project"
+  },
+  "hero": {
+    "badge": "Full-Service Company",
+    "title": "We Build the Future,",
+    "titleHighlight": "We Unlock Potential",
+    "subtitle": "From construction and stone works to software and tourism — Zap Endeavors is your comprehensive partner for growth and development.",
+    "cta": "Explore Our Services",
+    "ctaSecondary": "Contact Us"
+  },
+  "stats": {
+    "title": "Numbers That Speak for Themselves",
+    "years": "Years of Experience",
+    "projects": "Projects Completed",
+    "clients": "Satisfied Clients",
+    "services": "Integrated Services"
+  },
+  "pages": {
+    "about": {
+      "title": "About Us",
+      "subtitle": "We believe success is built on solid foundations of efficiency, innovation, and credibility"
+    },
+    "services": {
+      "title": "Our Services",
+      "subtitle": "A comprehensive range of high-quality services to meet all your requirements"
+    },
+    "whyUs": {
+      "title": "Why Choose Us",
+      "subtitle": "What makes us the ideal choice and trusted partner for your project"
+    },
+    "contact": {
+      "title": "Contact Us",
+      "subtitle": "We are here to answer all your inquiries and discuss your projects"
+    }
+  },
+  "services": {
+    "badge": "Our Services",
+    "title": "Comprehensive Solutions for Every Need",
+    "subtitle": "We offer a diverse range of high-quality services to meet all your requirements",
+    "viewAll": "View All Services",
+    "items": [
+      {
+        "title": "Stone Cutting & Shaping",
+        "description": "Professional stone cutting, shaping, and preparation services for construction, roads, and finishing works.",
+        "category": "Construction"
+      },
+      {
+        "title": "Residential Construction",
+        "description": "General construction of residential buildings to the highest standards of quality, safety, and modern design.",
+        "category": "Construction"
+      },
+      {
+        "title": "Non-Residential Construction",
+        "description": "Construction of schools, hospitals, hotels, commercial centers, and all non-residential facilities.",
+        "category": "Construction"
+      },
+      {
+        "title": "Logistics Services",
+        "description": "Comprehensive logistics solutions including transportation, storage, and supply chain management.",
+        "category": "Logistics"
+      },
+      {
+        "title": "Software Publishing",
+        "description": "Distribution, marketing, and publishing of ready-made software and applications for companies and institutions.",
+        "category": "Technology"
+      },
+      {
+        "title": "Custom Software Development",
+        "description": "Developing custom software solutions tailored to your specific needs using the latest technologies.",
+        "category": "Technology"
+      },
+      {
+        "title": "Tourist Accommodation Booking",
+        "description": "Booking and marketing services for tourist accommodation units including hotels, apartments, and resorts worldwide.",
+        "category": "Tourism"
+      }
+    ]
+  },
+  "about": {
+    "badge": "About Us",
+    "title": "Zap Endeavors",
+    "titleSub": "Ambitious Vision, Professional Execution",
+    "description1": "Zap Endeavors is a multi-disciplinary company combining expertise in construction, technology, tourism, and logistics. We believe success is built on solid foundations of efficiency, innovation, and credibility.",
+    "description2": "Since our founding, we have worked to deliver integrated solutions that combine quality and reliability, always striving to exceed client expectations and build long-term partnerships.",
+    "feature1": "Unmatched Quality",
+    "feature2": "Professional & Specialized Team",
+    "feature3": "Innovative & Integrated Solutions",
+    "feature4": "24/7 Continuous Support",
+    "cta": "Contact Us for Inquiries",
+    "missionTitle": "Our Mission",
+    "missionText": "We strive to be the preferred first partner in providing integrated and innovative solutions that serve development and meet sustainable growth requirements.",
+    "visionTitle": "Our Vision",
+    "visionText": "To be a leading company at the regional level in all sectors we operate in, relying on quality, innovation, and efficiency.",
+    "valuesTitle": "Our Values"
+  },
+  "whyUs": {
+    "badge": "Why Choose Us",
+    "title": "What Sets Us Apart",
+    "subtitle": "We stand out with a set of values and standards that make us the ideal choice for your partnership",
+    "items": [
+      {
+        "title": "Multi-Sector Expertise",
+        "description": "We combine diverse expertise across multiple sectors, giving us a comprehensive view and innovative solutions."
+      },
+      {
+        "title": "Certified Quality",
+        "description": "We adhere to the highest international quality standards in all our projects and services."
+      },
+      {
+        "title": "On-Time Delivery",
+        "description": "We are committed to timelines and guarantee delivery of projects on agreed dates."
+      },
+      {
+        "title": "After-Sales Support",
+        "description": "We provide continuous support and after-sales service to ensure complete client satisfaction."
+      },
+      {
+        "title": "Competitive Pricing",
+        "description": "We offer high-quality services at competitive prices suitable for various budgets."
+      },
+      {
+        "title": "Specialized Team",
+        "description": "Our team includes a selection of specialists and experts in every field we operate in."
+      }
+    ]
+  },
+  "cta": {
+    "title": "Ready to Start Your Project?",
+    "subtitle": "Contact our team today and get a free consultation",
+    "button": "Contact Us Now",
+    "buttonSecondary": "View Our Services"
+  },
+  "contact": {
+    "badge": "Contact Us",
+    "title": "Have a Project? We're Here",
+    "subtitle": "Contact us today to discuss your project and get a free consultation.",
+    "form": {
+      "name": "Full Name",
+      "namePlaceholder": "Enter your full name",
+      "email": "Email Address",
+      "emailPlaceholder": "Enter your email address",
+      "phone": "Phone Number",
+      "phonePlaceholder": "Enter your phone number",
+      "service": "Required Service",
+      "servicePlaceholder": "Select a service",
+      "message": "Your Message",
+      "messagePlaceholder": "Write your message here...",
+      "submit": "Send Message",
+      "sending": "Sending..."
+    },
+    "info": {
+      "title": "Contact Information",
+      "email": "Email",
+      "phone": "Phone",
+      "address": "Address",
+      "addressValue": "Kingdom of Saudi Arabia",
+      "hours": "Working Hours",
+      "hoursValue": "Sun - Thu: 8 AM - 5 PM"
+    }
+  },
+  "footer": {
+    "description": "Zap Endeavors — a multi-disciplinary company offering comprehensive solutions in construction, technology, logistics, and tourism.",
+    "quickLinks": "Quick Links",
+    "ourServices": "Our Services",
+    "followUs": "Follow Us",
+    "rights": "All Rights Reserved",
+    "company": "Zap Endeavors"
+  }
+}
